@@ -4,7 +4,7 @@
 }
 
 .navbar a.nav-link {
-  color: #B3A369 !important;
+  color: #FFFEF6 !important;
 }
 
 .bg-dark {
@@ -12,16 +12,16 @@
 }
 
 .ms-footer {
-  background-color: #003057;
+  background-color: #B3A369;
 }
 
 .ms-footer p {
-  color: #7F7F7F;
+  color: #000000;
   font-size: 13px;
 }
 
 .ms-footer a:hover {
-  color: #6ab43e;
+  color: #304cca;
   text-decoration: none;
 }
 
